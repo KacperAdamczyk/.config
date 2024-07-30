@@ -18,10 +18,4 @@ if status is-interactive
     else
         echo "'pnpm' not found"
     end
-
-    if type -q zellij
-        eval (zellij setup --generate-auto-start fish | string collect)
-    else
-        echo "'zellij' not found"
-    end
 end
