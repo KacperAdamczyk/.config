@@ -7,4 +7,6 @@
 !wezterm
 !wezterm/**
 
+!nvim
+
 !starship.toml
