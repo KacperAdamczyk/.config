@@ -4,4 +4,7 @@
 !fish
 !fish/**
 
+!wezterm
+!wezterm/**
+
 !starship.toml
