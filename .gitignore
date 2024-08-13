@@ -8,5 +8,6 @@
 !wezterm/**
 
 !nvim
+! nvim/**
 
 !starship.toml
